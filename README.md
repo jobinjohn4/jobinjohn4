@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jobin Abraham John</h1>
-<h3 align="center">A passionate Data Analyst currently pursuing Master's in Business Analytics and Information Systems at University of South Florida</h3>
+
 
 - 📫 How to reach me **jobinjohn144@gmail.com**
 
